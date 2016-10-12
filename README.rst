@@ -4,6 +4,9 @@ Hibou - Partner Gravatar
 
 Provides an easy way to get partner images from the Gravatar service. For more information and add-ons, visit `Hibou.io <https://hibou.io/>`_.
 
+Branches are named after Odoo major releases.
+* v9 <-- current
+* v10
 
 =============
 Main Features
