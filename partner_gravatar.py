@@ -67,4 +67,4 @@ class GravatarPartner(models.Model):
         gravatar_config = config.search([('key', '=', key)])
         if not gravatar_config:
             gravatar_config = config.create({'key': key, 'value': 'identicon'})
-        return gravatar_config.value;
+        return gravatar_config.value
